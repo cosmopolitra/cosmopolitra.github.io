@@ -1,2 +1,3 @@
-# cosmopolitra.github.io
-Reiseberichte und Ausflugsideen aus aller Welt
+# Cosmopolitra
+
+Reiseberichte und Ausflugsideen – https://cosmopolitra.github.io
