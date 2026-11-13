@@ -1,0 +1,15 @@
+title: Cosmopolitra
+description: Reiseberichte, Routen und Ausflugsideen aus aller Welt – ehrlich recherchiert und für die eigene Planung aufbereitet.
+lang: de
+locale: de_DE
+url: https://cosmopolitra.github.io
+baseurl: ""
+theme: minima
+permalink: /:title/
+show_excerpts: true
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+minima:
+  date_format: "%d.%m.%Y"
